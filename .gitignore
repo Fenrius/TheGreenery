@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
