@@ -20,8 +20,8 @@ jobs:
 
       - name: Set up Git identity
         run: |
-          git config user.name "EeveeInGaa"
-          git config user.email "85495739+EeveeInGaa@users.noreply.github.com"
+          git config user.name "Fenrius"
+          git config user.email "133879996+Fenrius@users.noreply.github.com"
 
       - name: Random sleep (0–1h)
         run: |
